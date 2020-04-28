@@ -14,7 +14,7 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="源文件\Array">
-      <UniqueIdentifier>{8e726a64-0764-4186-8590-4170c59f34f9}</UniqueIdentifier>
+      <UniqueIdentifier>{9d303de2-1757-440f-8c21-6a60e9f92413}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
