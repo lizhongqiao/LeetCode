@@ -16,6 +16,9 @@
     <Filter Include="源文件\Array">
       <UniqueIdentifier>{9d303de2-1757-440f-8c21-6a60e9f92413}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\LinkList">
+      <UniqueIdentifier>{c8c26277-9e2b-4962-a576-6e77a1295984}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode34.cpp">
@@ -32,5 +35,10 @@
     <ClInclude Include="LeetCode36.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LinkList\Summery.txt">
+      <Filter>源文件\LinkList</Filter>
+    </Text>
   </ItemGroup>
 </Project>

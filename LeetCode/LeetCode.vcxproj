@@ -145,6 +145,9 @@
     <ClInclude Include="LeetCode34.h" />
     <ClInclude Include="LeetCode36.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="LinkList\Summery.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
